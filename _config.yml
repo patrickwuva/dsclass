@@ -1,7 +1,10 @@
 title: DS 2002
-description: A starter template for a Jeykll site using the Just the Docs theme!
+description: DS 2002 Course Website
 theme: just-the-docs
 
+
+plugins:
+  - jekyll-default-layout
 url: https://patrickwuva.github.io/dsclass
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Template Repository: https://github.com/patrickwuva/dsclass
