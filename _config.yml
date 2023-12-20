@@ -1,11 +1,18 @@
 title: DS 2002
 description: DS 2002 Course Website
-baseurl: "/"
+baseurl: ""
 theme: just-the-docs
+heading_anchors: true
 
 
 plugins:
-  - jekyll-default-layout
+  - jekyll-seo-tag
+  - jekyll-github-metadata
+  - jekyll-include-cache
+
 url: https://patrickwuva.github.io/dsclass
 aux_links:
   dsclass: https://github.com/patrickwuva/dsclass
+
+nav_sort: case_sensitive
+color_scheme: dark
