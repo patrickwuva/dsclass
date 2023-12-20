@@ -1,5 +1,6 @@
 title: DS 2002
 description: DS 2002 Course Website
+baseurl: "/"
 theme: just-the-docs
 
 
@@ -7,4 +8,4 @@ plugins:
   - jekyll-default-layout
 url: https://patrickwuva.github.io/dsclass
 aux_links:
-  Template Repository: https://github.com/patrickwuva/dsclass
+  dsclass: https://github.com/patrickwuva/dsclass
